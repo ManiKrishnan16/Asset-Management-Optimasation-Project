@@ -1,8 +1,10 @@
 Data sources :-
 
 Nasdaq - https://www.nasdaq.com/market-activity/index/ndx/historical?page=1&rows_per_page=10&timeline=y10
+(data upto 10 years)
 
 Nse - https://www.niftyindices.com/reports/historical-data
+(data upto 1990)
 
 London Stock Exchange :- https://www.londonstockexchange.com/reports?tab=market-summary
 https://www.londonstockexchange.com/reports?tab=ftse-index-values
